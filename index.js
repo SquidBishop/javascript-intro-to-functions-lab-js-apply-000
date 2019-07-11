@@ -30,12 +30,12 @@ function sayHiToGrandma(string) {
   // false
  
  if (lowercase) {
-   return lowercase;
+   return lowercase
  }
- else (uppercase) {return uppercase;
+ else (uppercase) {return uppercase
    
  }
- else if (mixedCase) {return mixedCase;
+ else if (mixedCase) {return mixedCase
    
  }
 }
