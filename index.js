@@ -29,13 +29,13 @@ function sayHiToGrandma(string) {
   mixedCase.toUpperCase() === mixedCase;
   // false
  
- if (lowercase) {
+ if (string === lowercase) {
    return lowercase
  }
- else if (uppercase) {return uppercase
+ else if (string === uppercase) {return uppercase
    
  }
- else if (mixedCase) {return mixedCase
+ else if (string === mixedCase) {return mixedCase
    
  }
 }
