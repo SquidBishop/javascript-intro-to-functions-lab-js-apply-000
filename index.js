@@ -35,7 +35,7 @@ function sayHiToGrandma(string) {
  else if (uppercase) {return uppercase
    
  }
- else (mixedCase) {return mixedCase
+ else if (mixedCase) {return mixedCase
    
  }
 }
